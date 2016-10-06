@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name                = "My-VideoCore"
+  s.name                = "VideoCore"
   s.version             = "0.3.2"
   s.summary             = "An audio and video manipulation and streaming pipeline with support for RTMP."
   s.description      = <<-DESC
